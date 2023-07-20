@@ -1,3 +1,7 @@
+## Name: A OSWALD SHILO
+## RegisterNumber: 23006556
+
+
 # Experiment-02 Implementation of combinational logic:-
  
 ## AIM:-
